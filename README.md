@@ -1,5 +1,7 @@
 # Modern JavaScript for the Impatient
 
+<img src="https://images-na.ssl-images-amazon.com/images/I/51Y5+ZPSaYL._SX376_BO1,204,203,200_.jpg" alt="Modern JavaScript for the Impatient" />
+
  Source code for the book Modern JavaScript for the Impatient by Cay S. Horstmann.
  
  ## Book description
