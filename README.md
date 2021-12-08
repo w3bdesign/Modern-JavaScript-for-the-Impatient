@@ -1,3 +1,5 @@
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/w3bdesign/Modern-JavaScript-for-the-Impatient.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/w3bdesign/Modern-JavaScript-for-the-Impatient/context:javascript)
+
 # Modern JavaScript for the Impatient
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51Y5+ZPSaYL._SX376_BO1,204,203,200_.jpg" alt="Modern JavaScript for the Impatient" />
