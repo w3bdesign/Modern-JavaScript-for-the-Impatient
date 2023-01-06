@@ -1,5 +1,4 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=w3bdesign_Modern-JavaScript-for-the-Impatient&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=w3bdesign_Modern-JavaScript-for-the-Impatient)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/w3bdesign/Modern-JavaScript-for-the-Impatient.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/w3bdesign/Modern-JavaScript-for-the-Impatient/context:javascript)
 
 # Modern JavaScript for the Impatient
 
